@@ -89,14 +89,8 @@
       "nom": "XDK Titre",
       "categorie": "logiciels",
       "resume": "Le titre et le jeu du live sur Twitch et Kick en même temps : un titre, un jeu, un clic.",
-      "note": "Réservé à l'équipe XDK : il faut une clé pour ce PC (demande-la à Vito). Il faut aussi le .NET 8 Desktop Runtime (x64), gratuit chez Microsoft.",
+      "note": "Il faut le .NET 8 Desktop Runtime (x64), gratuit chez Microsoft.",
       "liens": [{ "label": ".NET 8 Desktop Runtime", "url": "https://dotnet.microsoft.com/download/dotnet/8.0" }],
-      "licence": {
-        "produit": "titre",
-        "fichier": "XDK Titre\\licence.txt",
-        "sel": "XDK-TEAM-DEV",
-        "prix": "réservé à l'équipe XDK, clé donnée par Vito."
-      },
       "couleur": "#ff2d95",
       "tags": ["Live", "Twitch", "Kick"]
     },
