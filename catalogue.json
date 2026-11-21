@@ -95,6 +95,25 @@
       "tags": ["Live", "Twitch", "Kick"]
     },
     {
+      "id": "github:XDK-Suivi-releases",
+      "nom": "XDK Suivi",
+      "categorie": "logiciels",
+      "resume": "Le tableau de suivi des logiciels XDK : chaque logiciel, sa version et son état (pas encore traité, prêt à publier, publié, bloqué).",
+      "note": "Il faut le .NET 8 Desktop Runtime (x64), gratuit chez Microsoft.",
+      "licence": {
+        "produit": "suivi",
+        "fichier": "XDK Suivi\\licence.txt",
+        "sel": "XDK-TEAM-DEV",
+        "prix": "clé donnée par l'équipe sur le Discord XDK TEAM DEV."
+      },
+      "liens": [
+        { "label": ".NET 8 Desktop Runtime", "url": "https://dotnet.microsoft.com/download/dotnet/8.0" },
+        { "label": "Discord XDK TEAM DEV", "url": "https://discord.gg/zEC35KSuxt" }
+      ],
+      "couleur": "#2563eb",
+      "tags": ["Suivi", "Versions"]
+    },
+    {
       "id": "github:XDK-Chest-Counter-releases",
       "nom": "XDK Chest Counter",
       "categorie": "logiciels",
