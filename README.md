@@ -7,8 +7,8 @@ néon XDK. **Gratuit**, pour Windows 10 et 11 (64 bits).
 
 ## Télécharger
 
-1. Télécharge **[XDK-Hub-Setup.exe](https://github.com/xavstream/XDK-Hub-releases/releases/latest/download/XDK-Hub-Setup.exe)**
-   (ou ouvre la [dernière version](https://github.com/xavstream/XDK-Hub-releases/releases/latest)).
+1. Télécharge **[XDK-Hub-Setup.exe](https://github.com/XDK-Vito/XDK-Hub-releases/releases/latest/download/XDK-Hub-Setup.exe)**
+   (ou ouvre la [dernière version](https://github.com/XDK-Vito/XDK-Hub-releases/releases/latest)).
 2. Lance-le : le hub s'installe tout seul et crée un raccourci sur le Bureau.
 
 Au premier lancement, Windows peut afficher « Windows a protégé votre ordinateur » : clique sur

@@ -141,8 +141,8 @@
       "workshop": "3832447482",
       "note": "Il faut Wallpaper Engine (Steam). Clique sur « S'abonner dans Steam », puis sur « Mettre en fond d'écran » : le hub l'ouvre directement dans Wallpaper Engine. Tu le trouves aussi dans Wallpaper Engine en cherchant « XDK » dans le Workshop.",
       "liens": [{ "label": "Page du Workshop", "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832447482" }],
-      "icone": "https://github.com/xavstream/XDK-Wallpapers-releases/releases/download/gta6-vice-city/icon.png",
-      "banniere": "https://github.com/xavstream/XDK-Wallpapers-releases/releases/download/gta6-vice-city/preview.jpg",
+      "icone": "https://github.com/XDK-Vito/XDK-Wallpapers-releases/releases/download/gta6-vice-city/icon.png",
+      "banniere": "https://github.com/XDK-Vito/XDK-Wallpapers-releases/releases/download/gta6-vice-city/preview.jpg",
       "couleur": "#ff3fb4",
       "tags": ["Wallpaper Engine", "GTA VI", "Animé"]
     },
@@ -152,8 +152,8 @@
       "nom": "XDK Mod Menus",
       "categorie": "ps5",
       "resume": "Homebrew PS5 : choisis et active tes mod menus Xbox 360 (émulateur PS5X360) depuis la console, sans PC. Il se met à jour tout seul.",
-      "icone": "https://github.com/xavstream/XDK-TEAM-DEV-releases/releases/download/xdk-mod-menus/tuile-icon0.png",
-      "banniere": "https://github.com/xavstream/XDK-TEAM-DEV-releases/releases/download/xdk-mod-menus/tuile-pic0.png",
+      "icone": "https://github.com/XDK-Vito/XDK-TEAM-DEV-releases/releases/download/xdk-mod-menus/tuile-icon0.png",
+      "banniere": "https://github.com/XDK-Vito/XDK-TEAM-DEV-releases/releases/download/xdk-mod-menus/tuile-pic0.png",
       "note": "Envoie le fichier .elf sur ta PS5 avec ton chargeur de payloads habituel.",
       "couleur": "#3fe0ff",
       "tags": ["PS5", "Xbox 360", "Homebrew"]
@@ -317,7 +317,7 @@
       "categorie": "communaute",
       "nom": "GitHub XDK TEAM DEV",
       "resume": "Toutes les versions téléchargeables.",
-      "url": "https://github.com/xavstream",
+      "url": "https://github.com/XDK-Vito",
       "couleur": "#cdbcff"
     }
   ],
@@ -331,8 +331,8 @@
       "nom": "Tchac !",
       "resume": "Le jeu de cartes à ventouse : la voix dit « Le bateau sur la carte jaune ! », l'enfant tape la bonne carte.",
       "description": "Tchac ! est un jeu de cartes à ventouse pour les enfants de 4 à 7 ans avec un syndrome 22q11. On pose les cartes sur la table, la voix donne la consigne et l'enfant tape la bonne carte avec sa baguette.\n\n- **Pièges des oreilles** : des mots qui sonnent presque pareil (bateau, gâteau, château, chapeau…).\n- **Pièges des yeux** : des images qui se ressemblent (lune, banane, croissant…).\n- 3 niveaux, voix lente ou normale, consigne dite une ou deux fois.\n- Marche sans Internet, rien n'est envoyé.",
-      "note": "Réservé aux familles : il faut le code d'accès donné par la TEAM XDK. Les cartes à imprimer et l'appli Android sont sur xavstream.github.io/XDK-Tchac-releases, avec le même code.",
-      "liens": [{ "label": "Cartes à imprimer et Android", "url": "https://xavstream.github.io/XDK-Tchac-releases/" }],
+      "note": "Réservé aux familles : il faut le code d'accès donné par la TEAM XDK. Les cartes à imprimer et l'appli Android sont sur xdk-vito.github.io/XDK-Tchac-releases, avec le même code.",
+      "liens": [{ "label": "Cartes à imprimer et Android", "url": "https://xdk-vito.github.io/XDK-Tchac-releases/" }],
       "couleur": "#f2c12e",
       "tags": ["22q11", "4 à 7 ans", "Écoute", "Attention"]
     },
@@ -344,8 +344,8 @@
       "categorie": "enfants",
       "nom": "Petits Pas",
       "resume": "Six petits jeux : syllabes, loto des sons, fusée à la voix, journée en images, émotions et coin calme.",
-      "note": "Réservé aux familles : il faut le code d'accès donné par la TEAM XDK. L'appli Android et la version navigateur sont sur xavstream.github.io/petits-pas, avec le même code.",
-      "liens": [{ "label": "Android et navigateur", "url": "https://xavstream.github.io/petits-pas/" }],
+      "note": "Réservé aux familles : il faut le code d'accès donné par la TEAM XDK. L'appli Android et la version navigateur sont sur xdk-vito.github.io/petits-pas, avec le même code.",
+      "liens": [{ "label": "Android et navigateur", "url": "https://xdk-vito.github.io/petits-pas/" }],
       "couleur": "#5cc8a0",
       "tags": ["22q11", "4 à 7 ans", "Parole", "Émotions"]
     }
