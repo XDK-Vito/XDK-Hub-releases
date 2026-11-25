@@ -147,7 +147,7 @@
       "nom": "XDK 3D Control Center",
       "categorie": "logiciels",
       "resume": "Tout ton atelier d'impression 3D au même endroit : imprimantes en direct, caméras, historique des impressions, bobines au gramme, modèles 3D et prises connectées.",
-      "note": "Ajoute tes imprimantes dans Paramètres › Mes imprimantes : Klipper / Moonraker (FLSUN, Neptune 4, Voron, K1…), Elegoo Saturn / Mars (résine), Anycubic Kobra 3 Max et Photon P1 Max.",
+      "note": "Marques prises en charge (réseau local) : Klipper / Moonraker, Bambu Lab, Prusa, OctoPrint, Creality K1 / K2, Flashforge, Elegoo (Centauri Carbon, Saturn / Mars), Anycubic Kobra 3 Max et Photon P1 Max. « Chercher sur mon réseau » les trouve toutes seules.",
       "licence": {
         "produit": "3d-control-center",
         "fichier": "XDK 3D Control Center\\licence.txt",
