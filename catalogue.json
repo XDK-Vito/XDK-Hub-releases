@@ -15,6 +15,7 @@
   "apps": [
     {
       "id": "github:XDK-Musique-releases",
+      "icone": "https://github.com/XDK-Vito/XDK-Musique-releases/releases/download/v1.3.2/icon.png",
       "nom": "XDK Musique",
       "categorie": "logiciels",
       "resume": "Le logiciel des DJ de la radio XDK : tes musiques et ton DJ live (Virtual DJ) dans le XDK LIVE FESTIVAL.",
@@ -23,6 +24,7 @@
     },
     {
       "id": "github:XDK-Opti-Disque-Securite-releases",
+      "icone": "https://github.com/XDK-Vito/XDK-Opti-Disque-Securite-releases/releases/download/v1.5.3/icon.png",
       "nom": "XDK Opti Disque Sécurité",
       "categorie": "logiciels",
       "resume": "Analyse, nettoie et optimise tes disques, et vérifie la sécurité de ton PC.",
@@ -40,6 +42,7 @@
     },
     {
       "id": "github:XDK-Gestionnaire-Disque-releases",
+      "icone": "https://github.com/XDK-Vito/XDK-Gestionnaire-Disque-releases/releases/download/v1.9.2/icon.png",
       "nom": "XDK Gestionnaire Disque",
       "categorie": "logiciels",
       "resume": "Voir, ouvrir, formater, partitionner, cloner et gérer tes disques sous Windows, avec une voix qui guide.",
@@ -56,6 +59,7 @@
     },
     {
       "id": "github:XDK-Cle-Securite-releases",
+      "icone": "https://github.com/XDK-Vito/XDK-Cle-Securite-releases/releases/download/v1.4.3/icon.png",
       "nom": "XDK Clé Sécurité",
       "categorie": "logiciels",
       "resume": "Protège tous tes comptes avec ta clé de sécurité USB et retrouve tes vieux comptes oubliés.",
@@ -71,6 +75,7 @@
     },
     {
       "id": "github:XDK-TeleMulti-releases",
+      "icone": "https://github.com/XDK-Vito/XDK-TeleMulti-releases/releases/download/v1.0.8/icon.png",
       "nom": "XDK TéléMulti",
       "categorie": "logiciels",
       "resume": "Colle tes liens, il les télécharge tous en même temps.",
@@ -160,7 +165,22 @@
       "tags": ["Impression 3D", "Atelier", "Klipper"]
     },
     {
+      "id": "github:MW4-Intel-releases",
+      "nom": "MW4 Intel",
+      "categorie": "logiciels",
+      "resume": "La méta, les camos et le tracker DMZ de Call of Duty Modern Warfare 4 au même endroit, en français. Gratuit.",
+      "description": "Tout ce qu'il faut pour Modern Warfare 4 dans une seule appli :\n\n- **Méta** : le classement des armes et leurs meilleurs builds (avec les codes d'import) en multijoueur, Warzone, Résurgence et DMZ, et ce qui a changé depuis la méta d'avant.\n- **Camos** : coche les défis de chaque arme et vois ce qu'il te reste jusqu'à l'Or, le Platine et la suite.\n- **DMZ** : clés, objets, recettes de l'imprimante 3D, améliorations, zones et lieutenants.\n- **Warzone**, **Armes** et **Missions**, plus **Ma liste** : ce que tu cherches en DMZ et tes objectifs de fabrication, avec l'endroit où trouver chaque objet.\n- Il lit tes captures d'écran du jeu (Game Bar, Win+Impr écran, Steam, Medal) et les menus du jeu avec la reconnaissance de texte de Windows pour mettre ton suivi à jour : rien ne quitte ton PC.\n- En français ou en anglais (bouton FR / US). La méta est mise à jour chaque semaine et l'appli se met à jour toute seule.",
+      "note": "Il faut le .NET 8 Desktop Runtime (x64), gratuit chez Microsoft.",
+      "liens": [
+        { "label": ".NET 8 Desktop Runtime", "url": "https://dotnet.microsoft.com/download/dotnet/8.0" },
+        { "label": "Discord XDK TEAM DEV", "url": "https://discord.gg/zEC35KSuxt" }
+      ],
+      "couleur": "#2ef2ff",
+      "tags": ["Call of Duty", "Méta", "DMZ"]
+    },
+    {
       "id": "github:XDK-Launcher-releases",
+      "icone": "https://github.com/XDK-Vito/XDK-Launcher-releases/releases/download/v2.4/icon.png",
       "nom": "XDK Launcher",
       "categorie": "android",
       "resume": "L'accueil néon de la TEAM XDK pour Android TV et Google TV : gratuit, léger, sans pub, mises à jour automatiques.",
@@ -251,6 +271,28 @@
       "resume": "Festival électro du live : écris !dance TonPseudo et ton avatar danse.",
       "couleur": "#ff3fb4",
       "tags": ["Musique", "Live TikTok"]
+    },
+    {
+      "id": "roblox:137500346829311",
+      "nom": "DJ SiMoXx Main Stage",
+      "resume": "La main stage hardstyle de DJ SiMoXx en direct 24 h/24 : flammes, lasers, feux d'artifice et un drone qui filme la foule.",
+      "note": "Accès sur invitation : seuls les invités de DJ SiMoXx peuvent entrer.",
+      "couleur": "#ff2bd6",
+      "tags": ["Musique", "Live TikTok"]
+    },
+    {
+      "id": "roblox:108168015685706",
+      "nom": "Dig for Dinos!",
+      "resume": "Creuse, trouve des fossiles et fais éclore 21 dinos pour ton parc, jusqu'aux dinos secrets.",
+      "tags": ["Simulateur", "Collection"]
+    },
+    {
+      "id": "roblox:90320256766993",
+      "nom": "Fonte Polaire",
+      "resume": "Un milliard de glaçons et ta clé de motoneige perdue dedans : casse la glace avec tes amis et tes pingouins.",
+      "note": "Jeu payant sur Roblox : 400 Robux, une seule fois.",
+      "couleur": "#96dcff",
+      "tags": ["Incrémental", "Coop", "Live TikTok"]
     },
     {
       "id": "bientot-iso-studio",
